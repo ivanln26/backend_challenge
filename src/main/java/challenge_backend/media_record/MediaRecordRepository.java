@@ -1,4 +1,4 @@
-package challenge_backend;
+package challenge_backend.media_record;
 
 import java.util.List;
 

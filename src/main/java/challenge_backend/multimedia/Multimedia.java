@@ -1,4 +1,4 @@
-package challenge_backend;
+package challenge_backend.multimedia;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package challenge_backend;
+package challenge_backend.media_player;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -10,8 +10,6 @@ public class MediaPlayer {
     private @Id @GeneratedValue Long id;
     private String name;
     private String brand;
-
-   
 
     public MediaPlayer() {
     }

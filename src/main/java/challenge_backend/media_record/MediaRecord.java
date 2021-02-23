@@ -1,10 +1,13 @@
-package challenge_backend;
+package challenge_backend.media_record;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+
+import challenge_backend.media_player.MediaPlayer;
+import challenge_backend.multimedia.Multimedia;
 
 @Entity
 public class MediaRecord {

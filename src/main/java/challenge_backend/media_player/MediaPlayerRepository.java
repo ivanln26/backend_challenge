@@ -1,4 +1,4 @@
-package challenge_backend;
+package challenge_backend.media_player;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
